@@ -5,7 +5,7 @@ There are several plants in your surroudings or your compound which do not recie
 
 Sunlight is detected and reflected onto the plant continuously, by rotating the reflector at specific angles.The reflector will rotate in a certain range of angle and depending on the intensity of the sunlight, it will stop rotating at that angle and it will reflect the sunlight towards the plant.
 
-Temperature and humidity are checked, for optimal growth of the plant.
+Temperature and humidity are checked, for optimal growth of the plant and displays it on the LCD screen.
 
 Main Components used:
 LDR (Light Dependent Resistor) – detects sunlight
