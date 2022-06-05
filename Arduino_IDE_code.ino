@@ -1,5 +1,8 @@
+// Rotates the reflector depending on the intensity detected by the LDR Sensor.
+// Detects the temperature and Humidity by DHT Sensor.
+// Displays the Temperature and Humidity on LCD Screen.
+
 #include <dht.h>
-// include the library code:
 #include <LiquidCrystal.h>
 
 
@@ -98,3 +101,6 @@ void loop(){
     //Fastest should be once every two seconds.
  
 }// end loop
+
+//MODULE AUTHOR
+//PURVIK S NUKAL
